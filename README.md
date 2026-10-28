@@ -1,2 +1,4 @@
-# pjei
-Esto es un repositorio del módulo de Proyectos de videojuegos 
+# Piratas
+
+Esto es un ejemplo de GDD 
+
